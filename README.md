@@ -58,5 +58,5 @@ Resultado: 10  <- (interpreta como (2*3)=6, depois 5+4=10)
 Repetir?[s/n]: n <- (fim do loop)
 ```
 
-##Execução
+## Execução
 Para executar o script use: `./calculadora.sh` em um terminal Linux.
