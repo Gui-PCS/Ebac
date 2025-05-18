@@ -2,7 +2,7 @@
 
 Este script implementa uma calculadora simples que processa operações matemáticas básicas, soma, subtração, múltiplicação e divisão (+, -, *, /), a partir de uma string digitada pelo usuário. Ele permite executar várias operações sequenciais e processa expressões da esquerda para a direita, sem considerar precedência de operadores.
 
-## Função: calculo(calc)
+### Função: calculo(calc)
 ```
 def calculo(calc):
 ```
@@ -20,7 +20,7 @@ Exemplo:
 calculo(["3", "+", "5"])  # Retorna 8
 ```
 
-## Função: calculadora(op)
+### Função: calculadora(op)
 ```
 def calculadora(op):
 ```
@@ -38,7 +38,7 @@ Funcionamento:
 5. Substitui esses elementos pelo resultado e continua o processo até sobrar apenas um resultado final.
 6. Caso a entrada seja inválida, retorna "Operação invalida".
 
-## Loop Principal
+### Loop Principal
 ```
 loop = 's'
 while loop == 's':
@@ -51,11 +51,12 @@ Funcionamento:
 - Chama a função calculadora para processar e exibir o resultado.
 - Pergunta ao usuário se deseja repetir (s para sim, n para não).
 
-## Exemplo de Execução
+### Exemplo de Execução
 ```
 Escreva a operação: 2*3+4
 Resultado: 10  <- (interpreta como (2*3)=6, depois 5+4=10)
 Repetir?[s/n]: n <- (fim do loop)
 ```
 
+##Execução
 Para executar o script use: `./calculadora.sh` em um terminal Linux.
