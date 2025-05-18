@@ -32,7 +32,3 @@ while loop == 's':
     op = input(str("Escreva a operação:"))  #operação pode ser escrita inteira
     print(calculadora(op))                  #chamado da função Calculadora
     loop = input(str("Repetir?[s/n]"))      #encerra ou continua o loop
-
-'''
-Use './calculadora.sh' em um terminal para executar o código
-'''
