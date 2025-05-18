@@ -1,1 +1,3 @@
 # Ebac
+
+./calculadora.sh
