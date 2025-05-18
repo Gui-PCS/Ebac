@@ -34,8 +34,5 @@ while loop == 's':
     loop = input(str("Repetir?[s/n]"))      #encerra ou continua o loop
 
 '''
-Pontos de Melhoria:
-    - Adicionar prioridade para multiplicação e divisão
-    - Adicionar potência e raiz quadrada
-    - Melhorar o controle de erros
+Use './calculadora.sh' em um terminal para executar o código
 '''
