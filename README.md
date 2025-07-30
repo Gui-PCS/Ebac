@@ -54,7 +54,7 @@ Funcionamento:
 ### Exemplo de Execução
 ```
 Escreva a operação: 2*3+4
-Resultado: 10  <- (interpreta como (2*3)=6, depois 5+4=10)
+Resultado: 10  <- (interpreta como (2*3)=6, depois 6+4=10)
 Repetir?[s/n]: n <- (fim do loop)
 ```
 
